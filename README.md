@@ -1,7 +1,7 @@
 # Olá! Sou Arthur. Sejam bem vindos ao início de um dev em desenvolvimento! 🚀💻
 
 
-> “Enquanto eu estiver vivo, minhas possibilidades são infinitas!”
+> “Enquanto eu estiver vivo, minhas possibilidades são infinitas!” - Monkey D. Luffy
 
 ---
 ## 📖 Sobre Mim 
